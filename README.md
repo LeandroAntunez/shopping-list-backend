@@ -1,6 +1,6 @@
 # Shopping List
 
-Este proyecto es una aplicación en la que presento una lista de compras, utilizando el framework de Angular.
+Este proyecto es el backend de aplicación en la que presento una lista de compras, utilizando ExpressJS.
 
 ## Comenzando 🚀
 
@@ -38,7 +38,7 @@ _Las herramientas que utilicé para crear mi proyecto._
 
 * [Visual Studio Code](https://code.visualstudio.com/) para la IDE.
 * [NodeJS](https://nodejs.org/es/) para el entorno de ejecución del proyecto.
-* [Angular](https://angular.io/) para construir la interfaz de usuario.
+* [Express](https://expressjs.com/es/) para estructurar la aplicación mediante la enrutación.
 
 ## Licencia 📄
 
