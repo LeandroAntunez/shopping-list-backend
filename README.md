@@ -14,7 +14,6 @@ y luego sigue las instrucciones de instalación._
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 * [NodeJS](https://nodejs.org/es/), el cual va a instalar el administrador de paquetes npm.
-* [Angular-CLI](https://angular.io/cli), para ejecutar el proyecto en el entorno de Angular.
 * [Shopping List Frontend](https://github.com/LeandroAntunez/shopping-list). Debe estar funcionando para visualizar e interactuar con la información.
 * [Visual Studio Code](https://code.visualstudio.com/). Es opcional, cualquier IDE o editor de texto para visualizar mejor el código.
 
